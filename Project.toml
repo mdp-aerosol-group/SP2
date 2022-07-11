@@ -1,0 +1,8 @@
+name = "SP2"
+uuid = "30921cf0-af7c-48d5-b503-5960a1d894d0"
+authors = ["Markus Petters <mdpetter@ncsu.edu>"]
+version = "0.1.0"
+
+[deps]
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+PyCall = "438e738f-606a-5dbb-bf0a-cddfbfd45ab0"
