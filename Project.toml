@@ -1,6 +1,6 @@
 name = "SP2"
 uuid = "30921cf0-af7c-48d5-b503-5960a1d894d0"
-authors = ["Markus Petters <mdpetter@ncsu.edu>"]
+authors = ["Markus Petters <markus.petters@ucr.edu>"]
 version = "0.1.0"
 
 [deps]
